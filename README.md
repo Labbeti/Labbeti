@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Labbeti/Labbeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Short bio: I'm a PhD student currently working on Artificial Intelligence for computational analysis of audio events using deep learning methods. My research focuses on **Automated Audio Captioning**, a multimodal task aiming to build systems capable of describing an audio file using a sentence written in natural language. I am currently working at the <a href='https://www.irit.fr/en/home/'>Computer Science Research Institute of Toulouse</a>, in France.
+- 😄 Pronouns: he/him
+- 📫 How to reach me: **labbeti.pub@gmail.com**
